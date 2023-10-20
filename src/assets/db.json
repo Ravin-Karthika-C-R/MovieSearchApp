@@ -1,0 +1,70 @@
+[
+    {
+    "Title": "Jailer",
+    "Year": "2023",
+    "Rated": "N/A",
+    "Released": "10 Aug 2023",
+    "Runtime": "168 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Nelson Dilipkumar",
+    "Writer": "Nelson Dilipkumar",
+    "Actors": "Rajinikanth, Mohanlal, Shivarajkumar",
+    "Plot": "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place. Can he emerge from this complex situation successfully?",
+    "Language": "Tamil, Malayalam, Hindi, Telugu, Kannada",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzFkNmZkMTctYjRhMS00ODZiLWFlNjQtZmZmN2IzMDJlNmVkXkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "24,346",
+    "imdbID": "tt11663228",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Leo",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "12 Mar 2004",
+    "Runtime": "104 min",
+    "Genre": "Drama",
+    "Director": "Mehdi Norowzian",
+    "Writer": "Massy Tadjedin, Amir Tadjedin",
+    "Actors": "Joseph Fiennes, Elisabeth Shue, Sam Shepard",
+    "Plot": "A recently-released prisoner and a troubled young boy share a pen-pal relationship, both connected by their past.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODhmZGRkZWMtOTQ2NS00NmU1LTg2MjktY2FjNTY5MDBiZWQyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "43%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "1,044",
+    "imdbID": "tt0308496",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
